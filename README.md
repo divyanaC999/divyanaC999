@@ -2,7 +2,7 @@ Here's a README file based on the details of your resume, formatted to be attrac
 
 ---
 
-# Divya Chourasiya - Full Stack Developer
+# Divya Chourasiya - Front End Developer
 
 **Contact Information:**
 - 📧 Email: [divyachourasiya.work@gmail.com](mailto:divyachourasiya.work@gmail.com)
