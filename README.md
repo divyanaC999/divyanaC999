@@ -1,6 +1,4 @@
-Here's a README file based on the details of your resume, formatted to be attractive and professional:
 
----
 
 # Divya Chourasiya - Front End Developer
 
