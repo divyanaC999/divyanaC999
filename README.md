@@ -4,7 +4,6 @@
 
 **Contact Information:**
 - 📧 Email: [divyachourasiya.work@gmail.com](mailto:divyachourasiya.work@gmail.com)
-- 📞 Phone: +91 8103691114
 - 🌐 [LinkedIn](https://www.linkedin.com/in/divya-chourasiya)
 - 💻 [GitHub](https://github.com/divyanaC999)
 
